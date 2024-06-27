@@ -2,8 +2,8 @@
 
 - 👨‍💻 Software Engineer with an ML/AI focus, and 3+ years experience at Salesforce, Adobe, and Intel.
 - 🤖 Specializing in Generative AI (Language) + Product Development.
-- 🔭 Currently building an AI-powered meeting assistant called ClarityAI. More details here: https://github.com/aashnabudhiraja/ClarityAI-Meeting-Assistant
-- 📫 Reach me at: abudhir3@asu.edu / aashna.budhiraja.ab@gmail.com
+<!-- - 🔭 Currently building an AI-powered meeting assistant called ClarityAI. More details here: https://github.com/aashnabudhiraja/ClarityAI-Meeting-Assistant -->
+- 📫 Reach me at: aashna.budhiraja.ab@gmail.com
 
 <!--
 **aashnabudhiraja/aashnabudhiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
